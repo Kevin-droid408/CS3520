@@ -71,6 +71,7 @@ examples/
 
 ## Current Material
 
+- [`labs/2026/lab-4-pipelining`](labs/2026/lab-4-pipelining/): Lab 4 starter programs for pipelining, hazards, forwarding, stalls, and performance comparisons in Ripes.
 - `examples/2026/array-max`: C++ model and RISC-V assembly worked example for finding the maximum array element.
 - `examples/2026/hello-world-assembly`: RISC-V assembly hello world example.
 - `examples/2026/prime-reversible-squares`: starter files for the prime reversible squares example.
